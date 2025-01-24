@@ -1,0 +1,7 @@
+<xml>
+    <page><title>Ash</title><id>1</id><text>[[Cash]] [[Cash]] [[Cash]]</text></page>
+    <page><title>Bash</title><id>2</id><text>[[Dash]]</text></page>
+    <page><title>Cash</title><id>3</id><text>[[Dash]]</text></page>
+    <page><title>Dash</title><id>4</id><text>[[Cash]] [[Cash]]</text></page>
+</xml>
+<!--Expected: Rank(A) = 0.0375, Rank(B) = 0.0375, Rank(C) = 0.4625, Rank(D) = 0.4625-->
