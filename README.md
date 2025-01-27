@@ -1,4 +1,4 @@
-# page-rank-search-engine
+# page-rank-search
 This project was completed as a partnered project. We worked collaboratively on all aspects of this project, discussing implementations and debugging issues together. I was responsible for more of the parsing, while my partner worked on more parts of the querier, but we both worked together in some form to complete all parts of the project.
 
 # Instruction for use:
