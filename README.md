@@ -1,7 +1,9 @@
 # page-rank-search
+April 2022
+
 This project was completed as a partnered project. We worked collaboratively on all aspects of this project, discussing implementations and debugging issues together. I was responsible for more of the parsing, while my partner worked on more parts of the querier, but we both worked together in some form to complete all parts of the project.
 
-# Instruction for use:
+# Instructions for use:
 Upon running the program for the first time, the user will be prompted to enter the xml file through which they would like the search and the three empty text file to which intermediate information will be written. Once these are inputted, the program will index the xml file, calculating different measures based on the contents of the xml file that will be used to return the most pertinent and reliable information to the user. After the xml file is indexed, the user will be prompted to enter a query on which to base their search through the xml file, as well as whether they want to include pagerank calculations in the determination of their results. This query and the previously calculated data will be used to return the most pertinent and reliable pages of the xml file (either with or without pagerank) to the user.
 
 # Design:
